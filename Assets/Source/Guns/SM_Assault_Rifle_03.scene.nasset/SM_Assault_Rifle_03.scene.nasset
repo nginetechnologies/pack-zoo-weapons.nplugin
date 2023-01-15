@@ -1,0 +1,41 @@
+{
+    "guid": "fd7f8b8a-9e3c-f8b6-43a1-359cfc2b3d8e",
+    "source": "../SM_Assault_Rifle_03.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "1423b3d7-9b5f-31a3-5649-db15b5209179",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Assault Rifle 03"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "91a948ff-44ad-43d9-32b3-380651eed5bd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Assault Rifle 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -90.0,
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b9707549-b44d-cce8-30d5-76638083fc6d"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "fd7f8b8a-9e3c-f8b6-43a1-359cfc2b3d8e"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "guid": "caccd7ce-209a-e98f-31c8-dca01aeac28f",
+    "source": "../SM_Bullpup_03.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f245d360-261a-e1dd-68d4-5b398e71e09a",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Bullpup 03"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c182301d-5d42-3124-b9f0-e8cc5c597437",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Bullpup 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -90.0,
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b257e696-f3a9-4324-61d9-0bfd18819376"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "caccd7ce-209a-e98f-31c8-dca01aeac28f"
+    }
+}

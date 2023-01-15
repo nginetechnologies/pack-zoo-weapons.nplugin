@@ -1,0 +1,41 @@
+{
+    "guid": "7b36017e-21a0-7aa1-e938-2f7418c416d6",
+    "source": "../SM_Submachine_Gun_01.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a973bdb0-3972-f4cc-d21f-126d8fb38234",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Submachine Gun 01"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "11a45b41-3e1b-cc96-d048-c0e390e23030",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Submachine Gun 01"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -90.0,
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "5fdc1458-119a-debc-e79c-ff38fb8e04b5"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "7b36017e-21a0-7aa1-e938-2f7418c416d6"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "guid": "d5fd042b-5a63-7c7f-6f03-321f3a891927",
+    "source": "../SM_Sniper_Rifle_05.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "bfee3414-5783-eedd-acf6-d0e00650cf2d",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Sniper Rifle 05"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "851c9e3d-91d0-5917-e931-120f0052ae7d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sniper Rifle 05"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -90.0,
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "68f409b2-8af3-9a95-5dc7-363bb698eb5d"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d5fd042b-5a63-7c7f-6f03-321f3a891927"
+    }
+}

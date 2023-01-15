@@ -1,0 +1,41 @@
+{
+    "guid": "216b7faa-5d6f-8aff-105c-ea5b4906b3ac",
+    "source": "../SM_Modern_Assault_Rifle_03.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0039aa24-adab-5832-c385-5d0a820d24fa",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "Modern Assault Rifle 03"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "5a1b023a-af7c-d2b1-cd12-26c115469932",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Modern Assault Rifle 03"
+                }
+            ],
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -90.0,
+                    0.0,
+                    0.0
+                ],
+                "scale": [
+                    100.0
+                ]
+            },
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c3c04c27-6b8e-5687-7594-794fd24774c1"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "216b7faa-5d6f-8aff-105c-ea5b4906b3ac"
+    }
+}

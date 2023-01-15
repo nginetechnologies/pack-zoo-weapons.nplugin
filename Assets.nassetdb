@@ -1,0 +1,2206 @@
+{
+    "005f7670-2ac0-c13a-8a93-3024e3dcf625": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_05.scene.nasset/Assault Rifle 05.mesh.nasset/Assault Rifle 05 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "02c1ea14-62e9-2a42-5267-41d3a65e1a96": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_02.scene.nasset/Modern Assault Rifle 02.mesh.nasset/Modern Assault Rifle 02 Main Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0435f0eb-7834-4da4-7f4d-23b6628c5b1c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_01.scene.nasset/Pistol 01.mesh.nasset/Pistol 01 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0655fd45-149a-3dd6-1a3e-d74924b1d7fb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_04.scene.nasset/Submachine Gun 04.mesh.nasset/Submachine Gun 04 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0795daf5-0f74-17b3-e560-c33a660a075e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Silencer_Short.scene.nasset/SM_Silencer_Short.mesh.nasset"
+    },
+    "07e7fedf-696f-0377-75cd-aa73273090db": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_04.scene.nasset/Modern Assault Rifle 04.mesh.nasset/Modern Assault Rifle 04 Main Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "084b54ab-fea6-9102-7f88-9c00f49dc28d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_01.scene.nasset/Pistol 01.mesh.nasset/Pistol 01 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0853f5b7-3428-4df8-4cab-13c958889bea": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_01.scene.nasset/SM_Sniper_Rifle_01.scene.nasset"
+    },
+    "08aa4e80-7927-4a94-0f2d-328ae544d0ec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_04.scene.nasset/Submachine Gun 04.mesh.nasset/Submachine Gun 04.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "09302d40-e34f-5c7b-2082-9353accd35e5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bayonet_02.scene.nasset/Bayonet 02.mesh.nasset/Bayonet 02 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "09c6dac0-1d6d-dc8a-efbf-6f7615a8c8e5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bullpup_01.scene.nasset/Bullpup 01.mesh.nasset/Bullpup 01 Main Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0a8b5635-86e4-a014-a25e-d6c0518cd72d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_03.scene.nasset/SM_Submachine_Gun_03.scene.nasset"
+    },
+    "0b39ae8a-5f46-197b-5541-424280aadfa3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bayonet_01.scene.nasset/SM_Bayonet_01.scene.nasset"
+    },
+    "0bdcca38-5290-6827-dea7-ccdf642ed727": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bayonet_02.scene.nasset/Bayonet 02.mesh.nasset/Bayonet 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0c765ed9-617d-7e75-6b8b-42a810be1dec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bullpup_02.scene.nasset/Bullpup 02.mesh.nasset/Bullpup 02 Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0fba6967-7a31-5a4e-d91a-a6ea3cf126ed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_03.scene.nasset/Pistol 03.mesh.nasset/Pistol 03 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0fc85861-70a0-c8d1-ffa7-efa3f87f9dc1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_03.scene.nasset/Shotgun 03.mesh.nasset/Shotgun 03 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "113749e1-4111-0ea7-9d35-dea2fa7a5548": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_05.scene.nasset/Pistol 05.mesh.nasset/Pistol 05.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "1146514f-f7e8-c400-4e62-11b7a0d95fc7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Revolver_01.scene.nasset/Revolver 01.mesh.nasset/Revolver 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "137de5cb-9452-4ca2-d48d-5f49c7b9a0af": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_04.scene.nasset/SM_Pistol_04.scene.nasset"
+    },
+    "14127808-cef6-2ef0-840b-7f3402a406ed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_01.scene.nasset/Assault Rifle 01.mesh.nasset/Assault Rifle 01 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1415ba57-e8ed-21af-da18-57948f93cc9d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_02.scene.nasset/SM_Sniper_Rifle_02.scene.nasset"
+    },
+    "145e79f6-d2bb-1815-a117-49e0eef6fdd3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_01.scene.nasset/Assault Rifle 01.mesh.nasset/Assault Rifle 01 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "15c874bf-6bc3-2770-9dad-4a82d5da832f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_03.scene.nasset/Assault Rifle 03.mesh.nasset/Assault Rifle 03 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "160e8047-d79c-723b-7244-96d9b491599c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_Short_Stock.scene.nasset/Shotgun Short Stock.mesh.nasset/Shotgun Short Stock Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "16857960-1759-b068-9155-5586a18a19c3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_03.scene.nasset/Shotgun 03.mesh.nasset/Shotgun 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "16c3add5-aa32-6378-89d4-aa055a88cd37": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_04.scene.nasset/SM_Assault_Rifle_04.scene.nasset"
+    },
+    "1900da55-76f7-d0ad-d3b9-422e27077b41": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_02.scene.nasset/Modern Assault Rifle 02.mesh.nasset/Modern Assault Rifle 02 Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "199404fc-c4ba-7648-0ea7-50cdc0dfea82": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_05.scene.nasset/Submachine Gun 05.mesh.nasset/Submachine Gun 05 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "19eab9ec-9987-5a84-ee13-01a15c8b72fe": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bullpup_01.scene.nasset/SM_Bullpup_01.scene.nasset"
+    },
+    "1a886e6b-ac0b-f451-1827-c29e9fcdd3aa": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_06.scene.nasset/SM_Sniper_Rifle_06.scene.nasset"
+    },
+    "1b88dd61-53de-99da-2e58-396ad35da8a4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_04.scene.nasset/Assault Rifle 04.mesh.nasset/Assault Rifle 04 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1bfbf061-ccdb-fbd8-fdaf-e0b0fcc14dd8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_01.scene.nasset/Modern Assault Rifle 01.mesh.nasset/Modern Assault Rifle 01 Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1c604a6a-edcb-95bd-e91d-45cb399690bf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bullpup_01.scene.nasset/Bullpup 01.mesh.nasset/Bullpup 01 Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1ea10d29-9f74-2521-0f72-8f18585f173d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_Sawed_Off.scene.nasset/Shotgun Sawed Off.mesh.nasset/Shotgun Sawed Off Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1f794a11-adcb-8986-56bf-c4e68ddcd618": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Silencer_01.scene.nasset/SM_Silencer_01.mesh.nasset"
+    },
+    "2009e2f0-f96a-0f39-8b74-e9d9db145d6e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_01.scene.nasset/Shotgun 01.mesh.nasset/Shotgun 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2148e379-2cd4-a019-84ff-7ea430a3cbad": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Silencer_03.scene.nasset/SM_Silencer_03.scene.nasset"
+    },
+    "2149e3ea-7bcc-ef0a-8565-96beb5296307": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_05.scene.nasset/Submachine Gun 05.mesh.nasset/Submachine Gun 05 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "216b7faa-5d6f-8aff-105c-ea5b4906b3ac": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_03.scene.nasset/SM_Modern_Assault_Rifle_03.scene.nasset"
+    },
+    "219a5df8-0151-753b-e78e-fa0e908e94a3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Silencer_Short.scene.nasset/SM_Silencer_Short.scene.nasset"
+    },
+    "21c20bf9-d7d0-1764-47cc-ae988e60ae56": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_03.scene.nasset/Shotgun 03.mesh.nasset/Shotgun 03 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "22884a72-9e5e-1a41-f7bb-c5dcec62c846": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_03.scene.nasset/Sniper Rifle 03.mesh.nasset/Sniper Rifle 03 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "22c2eac3-4f5e-5bde-cd1c-74b15943936c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_01.scene.nasset/Shotgun 01.mesh.nasset/Shotgun 01 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "22e0b229-f336-6a84-9fcb-4afa9ab5ce0a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_02.scene.nasset/Sniper Rifle 02.mesh.nasset/Sniper Rifle 02 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "23b50f18-ce71-2a7d-0089-76a3b6a0283c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_02.scene.nasset/Submachine Gun 02.mesh.nasset/Submachine Gun 02 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2534e552-249a-4956-e197-53d80f1190fa": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Revolver_01.scene.nasset/SM_Revolver_01.scene.nasset"
+    },
+    "259b3d3a-f89d-adff-8185-6c3a796989a7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_04.scene.nasset/Shotgun 04.mesh.nasset/Shotgun 04 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2608e675-c5cc-6ecb-62b7-2814ecf79e65": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_02.scene.nasset/Pistol 02.mesh.nasset/Pistol 02 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "267630cd-a759-ddfe-760d-38cc3bdc4b25": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_02.scene.nasset/SM_Submachine_Gun_02.scene.nasset"
+    },
+    "27ffef5e-2fda-07b4-420c-78f115345950": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_Sawed_Off.scene.nasset/SM_Shotgun_Sawed_Off.scene.nasset"
+    },
+    "28e145ff-8aed-db9b-f7be-a9066ed412d8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_02.scene.nasset/Submachine Gun 02.mesh.nasset/Submachine Gun 02 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "29233915-1aad-74b4-110b-2ea7ef211c9d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_06.scene.nasset/Sniper Rifle 06.mesh.nasset/Sniper Rifle 06 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2ad409c4-4d34-46fc-1e61-293066321928": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_03.scene.nasset/SM_Sniper_Rifle_03.scene.nasset"
+    },
+    "2cc928f9-ff5a-27df-96cd-dd395a1640ad": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_05.scene.nasset/Submachine Gun 05.mesh.nasset/Submachine Gun 05.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2d107920-d4ed-c6d1-c0b0-893fdcb8777b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bayonet_01.scene.nasset/Bayonet 01.mesh.nasset/Bayonet 01 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2d1b09f7-f98f-5a45-75ce-a6a0f765a2cb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_01.scene.nasset/Sniper Rifle 01.mesh.nasset/Sniper Rifle 01 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2d8197cb-6dc0-a64e-c08d-b6ae285a8243": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_04.scene.nasset/Modern Assault Rifle 04.mesh.nasset/Modern Assault Rifle 04 Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2da98783-47be-9707-6326-f0b3c43807db": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_03.scene.nasset/Pistol 03.mesh.nasset/Pistol 03 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "2f9f4519-849d-8a48-f951-320eea66de90": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_01.scene.nasset/Assault Rifle 01.mesh.nasset/Assault Rifle 01 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3024adb4-ffcc-df6c-6aa7-b212c15d7830": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_06.scene.nasset/Pistol 06.mesh.nasset/Pistol 06 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "31eac099-b058-50e8-bed1-524d24f7a1e6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_02.scene.nasset/Assault Rifle 02.mesh.nasset/Assault Rifle 02 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "32398391-d18b-78b1-5804-c6fb110515ca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_01.scene.nasset/Submachine Gun 01.mesh.nasset/Submachine Gun 01 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "329eb267-2908-0b9c-45c4-433a031141fb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_03.scene.nasset/Sniper Rifle 03.mesh.nasset/Sniper Rifle 03 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "33b2cd6f-751e-0980-b493-d8fb6e4f74b2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Tripod.scene.nasset/Tripod.mesh.nasset/Tripod.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "34c9b12b-eefa-58b1-305e-b5d5bd0dbf17": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bayonet_01.scene.nasset/Bayonet 01.mesh.nasset/Bayonet 01 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "353ca4a8-b6f5-528d-d918-2ab0a9dbc5d7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_Short_Stock.scene.nasset/Shotgun Short Stock.mesh.nasset/Shotgun Short Stock Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "365b1eb3-de28-ccf8-2a12-dda9c38a0f3a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_01.scene.nasset/Revolver 01.mesh.nasset/Revolver 01 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3799187e-c9fa-33d8-47d6-ae1b0a55b0d2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Scope_02.scene.nasset/Scope 02.mesh.nasset/Scope 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "387de841-04ea-0d11-b8c7-c2d9b3c807e3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Scope_01.scene.nasset/Scope 01.mesh.nasset/Scope 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3896d5a7-b845-b878-bf81-1a47cb83be52": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_02.scene.nasset/Submachine Gun 02.mesh.nasset/Submachine Gun 02 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "38ca8577-62be-6729-77bd-4806583aaceb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_03.scene.nasset/Modern Assault Rifle 03.mesh.nasset/Modern Assault Rifle 03 Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3ab745aa-6a7d-608d-321a-60e00705f78f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Mindkraft_EnviroSpecular.tex.nasset"
+    },
+    "3ce41888-455a-58de-f48c-d54d39d081f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Silencer_02.scene.nasset/SM_Silencer_02.scene.nasset"
+    },
+    "3d095642-0f16-bf7c-b780-3ada7f15e8d8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_04.scene.nasset/Submachine Gun 04.mesh.nasset/Submachine Gun 04 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3d7a643a-cacd-711f-a52f-78a117768376": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bayonet_02.scene.nasset/Bayonet 02.mesh.nasset/Bayonet 02 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "3de4c2f4-0702-7e43-0b04-bf26080e33d3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_02.scene.nasset/Modern Assault Rifle 02.mesh.nasset/Modern Assault Rifle 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "3f2cd6c6-1b35-cb58-af3f-480b687d761d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bayonet_02.scene.nasset/SM_Bayonet_02.scene.nasset"
+    },
+    "3f8e209d-9e9e-86a2-f75d-9fcfb4784485": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Scope_02.scene.nasset/Scope 02.mesh.nasset/Scope 02 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "40d762a5-7684-a57d-608d-9f1b4bdaaeac": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_01.scene.nasset/Shotgun 01.mesh.nasset/Shotgun 01 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4153c27d-5dfb-bb5a-3a04-610559fbc8eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bayonet_01.scene.nasset/Bayonet 01.mesh.nasset/Bayonet 01 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "420abb11-5d12-9392-fc5b-a9720cfe078e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_03.scene.nasset/Submachine Gun 03.mesh.nasset/Submachine Gun 03 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "43038e23-0516-cead-1c0a-736456ac0591": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_02.scene.nasset/Modern Assault Rifle 02.mesh.nasset/Modern Assault Rifle 02 Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "437d4d60-d7ff-e221-6497-aefbad03cee3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_05.scene.nasset/SM_Assault_Rifle_05.scene.nasset"
+    },
+    "46213c93-6b91-5e3f-a606-6b03384e6557": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_01.scene.nasset/Modern Assault Rifle 01.mesh.nasset/Modern Assault Rifle 01 Main Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "47e3b3f8-c26f-5ebb-03ba-8515cc3c863a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Scope_03.scene.nasset/SM_Scope_03.scene.nasset"
+    },
+    "48569785-b492-6a0d-097f-a7250b9ed1ea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_01.scene.nasset/Sniper Rifle 01.mesh.nasset/Sniper Rifle 01 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4ae8dc29-c0a1-4d82-b4d7-c751810f756d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_05.scene.nasset/Submachine Gun 05.mesh.nasset/Submachine Gun 05 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4b6e06db-ac05-90a2-4286-a90dcf06efcc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_04.scene.nasset/Assault Rifle 04.mesh.nasset/Assault Rifle 04 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "4ccbd4d5-bb43-8965-94b3-1bd89fa5902f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_04.scene.nasset/Revolver 04.mesh.nasset/Revolver 04 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5425234b-b296-463f-296d-44f7ed00abcb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_04.scene.nasset/Pistol 04.mesh.nasset/Pistol 04 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5482a028-4288-7602-182c-106044c9d21d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_Short_Stock.scene.nasset/Shotgun Short Stock.mesh.nasset/Shotgun Short Stock.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "555ea6f2-1815-ebec-a8b2-81463921e8d5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_04.scene.nasset/Assault Rifle 04.mesh.nasset/Assault Rifle 04 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5600a8be-c7d6-4d77-3461-4323d9647e32": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Revolver_05.scene.nasset/SM_Revolver_05.scene.nasset"
+    },
+    "56d0b52a-db38-27e0-5119-aab77c7dcb16": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_05.scene.nasset/Pistol 05.mesh.nasset/Pistol 05 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "57f4a400-a8e6-6521-6d6e-875889a2666d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_06.scene.nasset/Pistol 06.mesh.nasset/Pistol 06.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "582e9d6a-d629-d320-e785-bd17aedddc5a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_04.scene.nasset/Shotgun 04.mesh.nasset/Shotgun 04 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "584fa04c-5ad5-6750-10e7-7dc553867690": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Scope_01.scene.nasset/Scope 01.mesh.nasset/Scope 01 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/M_Skybox.mtli.nasset",
+        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
+    },
+    "5be1c9c5-792a-0b79-38a9-bff35dc76bc1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_03.scene.nasset/Shotgun 03.mesh.nasset/Shotgun 03 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5c00d06b-b3fd-61e4-52f2-eab332515eda": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_Short_Stock.scene.nasset/SM_Shotgun_Short_Stock.scene.nasset"
+    },
+    "5cdf91fa-b2aa-0b37-6304-ec8c99875269": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_02.scene.nasset/Submachine Gun 02.mesh.nasset/Submachine Gun 02 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5d01cc58-6ba7-15f2-36e4-1505554d002e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Flashlight.scene.nasset/SM_Flashlight.scene.nasset"
+    },
+    "5e64c7f7-6c34-1cce-ff64-a760b61c87e5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_Sawed_Off.scene.nasset/Shotgun Sawed Off.mesh.nasset/Shotgun Sawed Off Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5fc23cc3-01a6-6d68-0afe-669bfbb8db70": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_03.scene.nasset/Submachine Gun 03.mesh.nasset/Submachine Gun 03 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "5fdc1458-119a-debc-e79c-ff38fb8e04b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_01.scene.nasset/Submachine Gun 01.mesh.nasset/Submachine Gun 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "60950a88-9b9f-4dcf-c67f-965f5d56e821": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_06.scene.nasset/Pistol 06.mesh.nasset/Pistol 06 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "644d44f8-24af-5175-f389-5f5a7d136634": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_04.scene.nasset/Assault Rifle 04.mesh.nasset/Assault Rifle 04.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "64af63f4-658c-9cb9-fb7b-1447e0f7435d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Silencer_03.scene.nasset/SM_Silencer_03.mesh.nasset"
+    },
+    "65b87a68-87f8-acf2-6905-8cf245a43b33": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_02.scene.nasset/Sniper Rifle 02.mesh.nasset/Sniper Rifle 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "67e426de-5588-6166-c227-7ff789dc55f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_05.scene.nasset/Sniper Rifle 05.mesh.nasset/Sniper Rifle 05 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "686177ef-1dec-8323-f433-7d5bc3f92050": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_01.scene.nasset/SM_Assault_Rifle_01.scene.nasset"
+    },
+    "68f409b2-8af3-9a95-5dc7-363bb698eb5d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_05.scene.nasset/Sniper Rifle 05.mesh.nasset/Sniper Rifle 05.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6b0732a1-2b43-b957-149b-87db907e4687": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_05.scene.nasset/SM_Submachine_Gun_05.scene.nasset"
+    },
+    "6c1ef5db-3a4f-ff13-59bd-453452c61a3a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bullpup_02.scene.nasset/Bullpup 02.mesh.nasset/Bullpup 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6ce83d10-29e6-039c-22b7-14cc4408770f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_01.scene.nasset/SM_Shotgun_01.scene.nasset"
+    },
+    "6da5a7e9-b98f-a23a-6de4-3bf6603abfbc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_02.scene.nasset/Submachine Gun 02.mesh.nasset/Submachine Gun 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "6df82c50-efc2-484c-8f39-d0237ab5af2f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_05.scene.nasset/Sniper Rifle 05.mesh.nasset/Sniper Rifle 05 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
+        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
+        "path": "Assets/Physical Materials/Box.physmat.nasset"
+    },
+    "6f2cc047-9e39-fc3e-93cd-69a890ff9a03": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bullpup_02.scene.nasset/SM_Bullpup_02.scene.nasset"
+    },
+    "6f9f9502-6920-ff7e-ca44-1bb32e1e4a8f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_03.scene.nasset/Modern Assault Rifle 03.mesh.nasset/Modern Assault Rifle 03 Main Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "70614c73-8fa1-6940-c0c6-b267c866db0a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_01.scene.nasset/Shotgun 01.mesh.nasset/Shotgun 01 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7108a672-f7f4-cf16-ef59-adf811e5a2f8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_01.scene.nasset/Pistol 01.mesh.nasset/Pistol 01 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "71956ed6-ce9f-a641-ce4a-55190b452db0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_05.scene.nasset/Revolver 05.mesh.nasset/Revolver 05 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "724b8ec9-3db2-6ab7-9573-0b1b65db0ef5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_03.scene.nasset/Submachine Gun 03.mesh.nasset/Submachine Gun 03 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "729b8918-59de-2d59-8f4d-5ae1a6dcbb0e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Scope_03.scene.nasset/Scope 03.mesh.nasset/Scope 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "73e27f17-e0f9-7447-4ffb-22849fb8523d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_06.scene.nasset/Pistol 06.mesh.nasset/Pistol 06 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "73e6be50-0c65-2f65-62ec-5c07f08e9e2f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bipod.scene.nasset/Bipod.mesh.nasset/Bipod.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "759ce78e-6c22-7f68-79f1-06413d7cf560": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_06.scene.nasset/Sniper Rifle 06.mesh.nasset/Sniper Rifle 06 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "75a8d2d9-fcd7-9f55-f3e1-93bc56058e57": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_06.scene.nasset/Sniper Rifle 06.mesh.nasset/Sniper Rifle 06 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "76b18617-94c3-5d31-a017-a33ca1fdb0fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_Short_Stock.scene.nasset/Shotgun Short Stock.mesh.nasset/Shotgun Short Stock Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "772d5e22-3174-5018-7db8-289beaa054f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Silencer_01.scene.nasset/SM_Silencer_01.scene.nasset"
+    },
+    "79ed7f64-1d50-ca1b-fb50-5a17d81e19e8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Flashlight.scene.nasset/Flashlight.mesh.nasset/Flashlight Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7a0a729c-22ab-8771-5a03-812ff903c830": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bullpup_03.scene.nasset/Bullpup 03.mesh.nasset/Bullpup 03 Main Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7a99b9f9-da51-ce99-b585-a2b44be61c4a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_01.scene.nasset/SM_Pistol_01.scene.nasset"
+    },
+    "7b36017e-21a0-7aa1-e938-2f7418c416d6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_01.scene.nasset/SM_Submachine_Gun_01.scene.nasset"
+    },
+    "7ca9c66b-8875-6c45-8881-7afe52ac9c27": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_01.scene.nasset/Revolver 01.mesh.nasset/Revolver 01 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7ce3d739-76d9-8678-1743-4758470f0ff3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Tripod.scene.nasset/Tripod.mesh.nasset/Tripod Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7d043be0-1de3-2d78-9fed-6dbed4eae92e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_04.scene.nasset/Pistol 04.mesh.nasset/Pistol 04 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7d056166-6ef2-ed55-6211-d32e38f1d402": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_02.scene.nasset/Sniper Rifle 02.mesh.nasset/Sniper Rifle 02 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7d2ac08e-950c-4012-276a-72582c6c0343": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_03.scene.nasset/Revolver 03.mesh.nasset/Revolver 03 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7d792c8b-513f-2970-809e-eaa80e7d28ec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_01.scene.nasset/Shotgun 01.mesh.nasset/Shotgun 01 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7d967312-33da-9b3e-187a-1514215ad351": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bayonet_02.scene.nasset/Bayonet 02.mesh.nasset/Bayonet 02 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7dae86a0-5709-88ec-42df-862605961735": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_05.scene.nasset/Revolver 05.mesh.nasset/Revolver 05 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7dfbd959-7b01-1beb-9b73-5837e6f2489f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_04.scene.nasset/Assault Rifle 04.mesh.nasset/Assault Rifle 04 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7e1e64ca-f890-d4a5-2647-437a3788f60c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_Short_Stock.scene.nasset/Shotgun Short Stock.mesh.nasset/Shotgun Short Stock Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7e43d54b-d8f7-9f6b-6fd1-4383b882aaaf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_02.scene.nasset/SM_Pistol_02.scene.nasset"
+    },
+    "7f287b0f-25c8-bfcd-b35f-59dc0a82edaa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_04.scene.nasset/Shotgun 04.mesh.nasset/Shotgun 04 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "7f4248e3-8ca3-4570-1980-7fa4eb33a403": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_03.scene.nasset/Sniper Rifle 03.mesh.nasset/Sniper Rifle 03 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8051659b-1d09-aabf-3e12-44b713e1269b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bipod.scene.nasset/Bipod.mesh.nasset/Bipod Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "811a1922-5ed7-77ed-de38-64eab2db4330": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_04.scene.nasset/Revolver 04.mesh.nasset/Revolver 04 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "83612a29-8935-b8ee-1d4f-1351dc119fe0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_05.scene.nasset/Sniper Rifle 05.mesh.nasset/Sniper Rifle 05 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8585ff16-f8bc-2c5a-1651-bd1f1ce2f5ca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bayonet_01.scene.nasset/Bayonet 01.mesh.nasset/Bayonet 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "86845f0a-a6d9-a8af-1363-c97028b20b8e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_02.scene.nasset/Pistol 02.mesh.nasset/Pistol 02 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "87d1912a-11cb-a61f-af04-4843452fe3c4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_02.scene.nasset/Shotgun 02.mesh.nasset/Shotgun 02 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8852ecf8-720d-f6d5-30bc-426e7c84854a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_03.scene.nasset/Modern Assault Rifle 03.mesh.nasset/Modern Assault Rifle 03 Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "887a3c4c-4ee4-cd7a-ee7f-73f0656154bb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Scope_03.scene.nasset/Scope 03.mesh.nasset/Scope 03 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8c67b972-009d-7fff-035e-0ed184519739": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_01.scene.nasset/Sniper Rifle 01.mesh.nasset/Sniper Rifle 01 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8da561b9-c8c6-6784-e263-81ed0ce97646": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_04.scene.nasset/Sniper Rifle 04.mesh.nasset/Sniper Rifle 04 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8e51c899-76f0-9f58-70c2-87df0cc13199": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Revolver_04.scene.nasset/Revolver 04.mesh.nasset/Revolver 04.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "8e559d79-5f17-cbe8-f128-b44a28eca28a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_04.scene.nasset/Sniper Rifle 04.mesh.nasset/Sniper Rifle 04 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "8fd41cc0-d425-a9e9-9e27-441c074470d1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_Sawed_Off.scene.nasset/Shotgun Sawed Off.mesh.nasset/Shotgun Sawed Off.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "90040945-6c1a-2c17-1a5b-07888ab0585a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_02.scene.nasset/Assault Rifle 02.mesh.nasset/Assault Rifle 02 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "90bfc873-fd01-4696-7e0e-4deae4ed2bd8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bullpup_01.scene.nasset/Bullpup 01.mesh.nasset/Bullpup 01 Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "913ead77-851c-2781-b3bc-0c29b4935df0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bayonet_01.scene.nasset/Bayonet 01.mesh.nasset/Bayonet 01 Metal Light 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "917055f3-185a-af6c-9bec-34ae6d9de7d1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Revolver_05.scene.nasset/Revolver 05.mesh.nasset/Revolver 05.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "921e89b0-a907-24eb-ba53-bcd6605a7589": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_01.scene.nasset/Submachine Gun 01.mesh.nasset/Submachine Gun 01 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9225d2c3-add8-1f26-f070-0f3b4bfb2198": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_03.scene.nasset/Sniper Rifle 03.mesh.nasset/Sniper Rifle 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "93b92af5-c36f-f45f-9dd8-ff8c07e8fd38": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_01.scene.nasset/Modern Assault Rifle 01.mesh.nasset/Modern Assault Rifle 01 Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "94deb9f0-eaa7-5347-e58b-e4acb7cb75c0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Tripod.scene.nasset/Tripod.mesh.nasset/Tripod Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "95a059db-6f1c-5971-1822-a78043c4f19e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_02.scene.nasset/SM_Shotgun_02.scene.nasset"
+    },
+    "96165cee-8287-604c-fd26-8af06f916094": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Grip.scene.nasset/SM_Grip.scene.nasset"
+    },
+    "966f69bb-9492-9f64-06bb-ff8f25a97bf8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_03.scene.nasset/Pistol 03.mesh.nasset/Pistol 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "96a6d300-c669-7772-c0a1-cdd97a007f97": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_01.scene.nasset/Assault Rifle 01.mesh.nasset/Assault Rifle 01 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "988f6fa1-6d47-aaf2-d168-5f2b7326251e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_04.scene.nasset/Shotgun 04.mesh.nasset/Shotgun 04 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9928e606-c97a-8dab-3f5a-d39abd5a16a4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_01.scene.nasset/Submachine Gun 01.mesh.nasset/Submachine Gun 01 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9a0f8aec-c86f-5bd1-21cb-8a1759ec51e6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Scope_02.scene.nasset/SM_Scope_02.scene.nasset"
+    },
+    "9a37f2a5-f317-36a3-53ec-59fc2c9b0cea": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_06.scene.nasset/Sniper Rifle 06.mesh.nasset/Sniper Rifle 06 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9aae2a08-5aeb-5716-e8ec-606fe8229ff8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_02.scene.nasset/Assault Rifle 02.mesh.nasset/Assault Rifle 02 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9b294863-e788-c87e-4668-2c262d86ccec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_03.scene.nasset/Revolver 03.mesh.nasset/Revolver 03 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9fb3fa56-0ebb-1026-2bb2-2d8d799b4033": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_04.scene.nasset/Sniper Rifle 04.mesh.nasset/Sniper Rifle 04.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "9fe6fccb-b985-db5a-8454-056e9508f95d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_02.scene.nasset/SM_Assault_Rifle_02.scene.nasset"
+    },
+    "a06a9705-d532-7ef8-891f-2e3e2e2cd63d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bullpup_01.scene.nasset/Bullpup 01.mesh.nasset/Bullpup 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a0a7535b-c867-c3a5-57fb-b8114d41e553": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_03.scene.nasset/Shotgun 03.mesh.nasset/Shotgun 03 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a0f44dba-f5f8-7091-bc8f-974c9b15e957": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_04.scene.nasset/Revolver 04.mesh.nasset/Revolver 04 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a260a112-c900-124e-b6c9-27c411781cbb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_02.scene.nasset/Shotgun 02.mesh.nasset/Shotgun 02 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a2ca1dcf-4a8a-1b85-4dd3-a58cae6650e0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Stock.scene.nasset/SM_Stock.scene.nasset"
+    },
+    "a3eb255d-c53b-300d-f427-44a2ad77c3aa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Flashlight.scene.nasset/Flashlight.mesh.nasset/Flashlight.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "a6495b44-4495-f18f-c42d-47713bd0afa4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_02.scene.nasset/SM_Modern_Assault_Rifle_02.scene.nasset"
+    },
+    "a6664173-8277-56dc-3619-78c62689e047": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_02.scene.nasset/Shotgun 02.mesh.nasset/Shotgun 02 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a6bd8ef5-06a8-0413-b743-6c4be5cdeef7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_02.scene.nasset/Assault Rifle 02.mesh.nasset/Assault Rifle 02 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
+    },
+    "a8679611-0a8a-e8f4-83b1-c81ff285561f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_02.scene.nasset/Revolver 02.mesh.nasset/Revolver 02 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "aa667f6f-a102-b28f-cd31-55cbcbdf05fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_02.scene.nasset/Revolver 02.mesh.nasset/Revolver 02 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ab4f1235-1757-f8da-eb94-b60aca466550": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_03.scene.nasset/Sniper Rifle 03.mesh.nasset/Sniper Rifle 03 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ab653693-4f7d-a49b-e77d-b04ca9447afd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_02.scene.nasset/Shotgun 02.mesh.nasset/Shotgun 02 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ab9876af-db8e-e6b1-dd9f-53267445c70c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Scope_03.scene.nasset/Scope 03.mesh.nasset/Scope 03 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ad776e1b-0b38-bcbc-d0ea-cedb678a1eca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_05.scene.nasset/Pistol 05.mesh.nasset/Pistol 05 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ada2fd6e-3dcf-a29b-1319-23cd9465c2f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_03.scene.nasset/Revolver 03.mesh.nasset/Revolver 03 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ade75516-8d15-a331-9ca3-540cd8553bee": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_04.scene.nasset/SM_Sniper_Rifle_04.scene.nasset"
+    },
+    "ae49bb6b-acfc-c614-a0b4-7f33677a37af": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_02.scene.nasset/Pistol 02.mesh.nasset/Pistol 02 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ae98f2d7-0ed3-0dcb-d8ec-ef1ddcc9dc72": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_01.scene.nasset/Revolver 01.mesh.nasset/Revolver 01 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ae99da11-607b-0e4e-cde7-99ccbef61c7d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_05.scene.nasset/SM_Pistol_05.scene.nasset"
+    },
+    "b257e696-f3a9-4324-61d9-0bfd18819376": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bullpup_03.scene.nasset/Bullpup 03.mesh.nasset/Bullpup 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b4c14c57-f191-a672-cfbf-0cee94d10c8e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_01.scene.nasset/Assault Rifle 01.mesh.nasset/Assault Rifle 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "b5b4f78b-9663-828d-9d0d-1230995cdbf9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Scope_01.scene.nasset/Scope 01.mesh.nasset/Scope 01 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b695eff7-88a8-5f73-21db-386d7810b9e3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_02.scene.nasset/Sniper Rifle 02.mesh.nasset/Sniper Rifle 02 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b945b724-a308-ed22-8fd8-0d9e31b4b9ed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_04.scene.nasset/Sniper Rifle 04.mesh.nasset/Sniper Rifle 04 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b9707549-b44d-cce8-30d5-76638083fc6d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_03.scene.nasset/Assault Rifle 03.mesh.nasset/Assault Rifle 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "bb0c4162-97b1-1221-82fb-d3f9f64cb19d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_04.scene.nasset/SM_Modern_Assault_Rifle_04.scene.nasset"
+    },
+    "bb526ee0-0661-2606-c3a3-b1a696bc1c1d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bullpup_03.scene.nasset/Bullpup 03.mesh.nasset/Bullpup 03 Main.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bbb348ff-c87e-118e-3f86-b57bf81d489e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_05.scene.nasset/Assault Rifle 05.mesh.nasset/Assault Rifle 05 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bbdefbd1-25a0-2088-aad0-6fcad4e76d95": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Scope_02.scene.nasset/Scope 02.mesh.nasset/Scope 02 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "bc266589-871c-bc52-4d98-fdc2d5c1e764": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_04.scene.nasset/SM_Submachine_Gun_04.scene.nasset"
+    },
+    "bc9bcb28-8b06-714f-4bb9-0674b77aab40": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bipod.scene.nasset/SM_Bipod.scene.nasset"
+    },
+    "bd067217-04e0-e1f7-7b1a-fbb6971163c6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_03.scene.nasset/SM_Shotgun_03.scene.nasset"
+    },
+    "bf84e5e1-b6b6-a90f-8d92-de5583942f85": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_02.scene.nasset/Assault Rifle 02.mesh.nasset/Assault Rifle 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c0feba8f-e236-7b8a-e422-d9aeda6ca336": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_01.scene.nasset/Sniper Rifle 01.mesh.nasset/Sniper Rifle 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c28d26fa-d958-c736-9798-e05147b0ac49": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_06.scene.nasset/Sniper Rifle 06.mesh.nasset/Sniper Rifle 06.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c2940fa0-88d1-e650-7003-f9e85ffe8c39": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Mindkraft_Enviro.tex.nasset"
+    },
+    "c3c04c27-6b8e-5687-7594-794fd24774c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_03.scene.nasset/Modern Assault Rifle 03.mesh.nasset/Modern Assault Rifle 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c493bc78-3be4-cf13-7e76-ef5378324ed7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Silencer_02.scene.nasset/SM_Silencer_02.mesh.nasset"
+    },
+    "c4c35f75-56fd-1da3-6194-1b60539042c0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_Sawed_Off.scene.nasset/Shotgun Sawed Off.mesh.nasset/Shotgun Sawed Off Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c61e2218-1164-f7f2-1638-6a0382733793": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_02.scene.nasset/Pistol 02.mesh.nasset/Pistol 02 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c6f1f195-3a85-b51a-6823-000b2d832a7b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_Sawed_Off.scene.nasset/Shotgun Sawed Off.mesh.nasset/Shotgun Sawed Off Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "c947f70c-4857-fe0d-484f-c849361d090b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_04.scene.nasset/Assault Rifle 04.mesh.nasset/Assault Rifle 04 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ca3a5eb3-bdb3-9b7b-6a16-0dccdbd36cc6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_03.scene.nasset/SM_Pistol_03.scene.nasset"
+    },
+    "caccd7ce-209a-e98f-31c8-dca01aeac28f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Bullpup_03.scene.nasset/SM_Bullpup_03.scene.nasset"
+    },
+    "cb19e6f2-83ff-21c3-f4c6-f16d3e25a412": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_04.scene.nasset/Submachine Gun 04.mesh.nasset/Submachine Gun 04 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cc57cf57-45ab-5efa-8234-0d7f92397cf1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_01.scene.nasset/SM_Modern_Assault_Rifle_01.scene.nasset"
+    },
+    "cf4c1e7b-eda4-b09e-2ce0-1d8dbb77c300": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Scope_03.scene.nasset/Scope 03.mesh.nasset/Scope 03 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cf905ec5-a99e-af83-a43a-743f994b273a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_06.scene.nasset/SM_Pistol_06.scene.nasset"
+    },
+    "cfb94afc-6918-294d-d143-4bf778320c0e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_02.scene.nasset/Shotgun 02.mesh.nasset/Shotgun 02 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d06b0272-4e42-9014-bc90-e305303b97b3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_03.scene.nasset/Sniper Rifle 03.mesh.nasset/Sniper Rifle 03 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d16d1e75-2818-7921-2e41-6ed3a113eeb8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_03.scene.nasset/Assault Rifle 03.mesh.nasset/Assault Rifle 03 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d4331283-72d8-edd7-ccab-28bdf72b0e4e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_05.scene.nasset/Sniper Rifle 05.mesh.nasset/Sniper Rifle 05 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d47b2d8b-ace6-33c0-8b14-90821eb6d9ae": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_06.scene.nasset/Sniper Rifle 06.mesh.nasset/Sniper Rifle 06 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d57d812c-fcd8-4f37-ef5d-d9564339673f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Tripod.scene.nasset/SM_Tripod.scene.nasset"
+    },
+    "d5fd042b-5a63-7c7f-6f03-321f3a891927": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_05.scene.nasset/SM_Sniper_Rifle_05.scene.nasset"
+    },
+    "d6a6b5db-cd39-6a48-3df0-e735d47b9d82": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bullpup_02.scene.nasset/Bullpup 02.mesh.nasset/Bullpup 02 Main Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d8339671-369c-eb8e-002f-62f019951b4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_Sawed_Off.scene.nasset/Shotgun Sawed Off.mesh.nasset/Shotgun Sawed Off Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d8a587d4-cf75-4094-6098-5517d2eae143": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Revolver_02.scene.nasset/SM_Revolver_02.scene.nasset"
+    },
+    "d993ece1-16da-434d-002d-92e6a3419425": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Revolver_04.scene.nasset/SM_Revolver_04.scene.nasset"
+    },
+    "d9a3364b-baa6-5e49-0819-8f69749d24f8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_01.scene.nasset/Sniper Rifle 01.mesh.nasset/Sniper Rifle 01 Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "d9fa4ff1-8968-23db-8e67-77642cb4d88e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Mindkraft_EnviroDiffuse.tex.nasset"
+    },
+    "da6d4c82-7da5-407e-bc4b-b0989f51487c": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "thumbnail": "24fe35c8-2982-465b-8bc3-dde46c44d50a"
+    },
+    "daa27c65-6879-82e1-d335-ad8b7aad88ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_01.scene.nasset/Pistol 01.mesh.nasset/Pistol 01 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dad0ceef-1768-88de-03df-3910b69615bd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_05.scene.nasset/Sniper Rifle 05.mesh.nasset/Sniper Rifle 05 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "db05d748-114e-13c3-5ca9-360af4925357": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Revolver_03.scene.nasset/Revolver 03.mesh.nasset/Revolver 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "dcdeb7c1-1428-0463-4055-f00fd1d9ff14": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_05.scene.nasset/Assault Rifle 05.mesh.nasset/Assault Rifle 05.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "dce1d06f-0641-6048-8af3-fdcf00b02af1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Shotgun_04.scene.nasset/Shotgun 04.mesh.nasset/Shotgun 04 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "dd31f1bd-fa7a-758c-d30d-06e4dbf77a83": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_03.scene.nasset/Assault Rifle 03.mesh.nasset/Assault Rifle 03 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e0bd3166-9f96-f096-5a01-88ad0270d40f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Revolver_02.scene.nasset/Revolver 02.mesh.nasset/Revolver 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e15b8503-ad4a-d7c7-c6ef-7ce21000d135": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_01.scene.nasset/Pistol 01.mesh.nasset/Pistol 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e22d748b-ebe7-df82-52b5-55a6d3a153c1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_05.scene.nasset/Pistol 05.mesh.nasset/Pistol 05 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e27cef0d-8dbe-3633-696a-d88c961846cb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_04.scene.nasset/Pistol 04.mesh.nasset/Pistol 04.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "e2c1bce6-40bf-4c5d-fdaa-ed179718844b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Scope_02.scene.nasset/Scope 02.mesh.nasset/Scope 02 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e37729e2-ef09-3566-e925-b581078ea41d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Scope_01.scene.nasset/SM_Scope_01.scene.nasset"
+    },
+    "e6c293c2-9642-b308-d329-a72cb7a758c8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_05.scene.nasset/Revolver 05.mesh.nasset/Revolver 05 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e9285f51-0cf6-66c8-32a8-8ae18841871a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_03.scene.nasset/Assault Rifle 03.mesh.nasset/Assault Rifle 03 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e95160b5-9f01-a360-4319-88759e54333f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
+    },
+    "e96bdb33-4b3b-e4e3-5a99-9cbb181a4c52": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Scope_01.scene.nasset/Scope 01.mesh.nasset/Scope 01 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ea65c890-cce3-dd5f-78b4-384afbdfedba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_04.scene.nasset/Submachine Gun 04.mesh.nasset/Submachine Gun 04 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eafd2f34-3df7-9166-5247-648e7798ae03": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Revolver_03.scene.nasset/SM_Revolver_03.scene.nasset"
+    },
+    "eb6f228a-114d-db77-7246-06758dc210ba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Silencer_Long.scene.nasset/SM_Silencer_Long.mesh.nasset"
+    },
+    "ebe42cec-68ff-1a5f-0311-955f0e497b8f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bayonet_02.scene.nasset/Bayonet 02.mesh.nasset/Bayonet 02 Metal Light 02.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ec66ce19-1e67-478b-a8e6-07b9cf74df4c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Player/Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "ecc725fd-7278-def8-b1f9-f577b40d36e8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_03.scene.nasset/Submachine Gun 03.mesh.nasset/Submachine Gun 03 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ed00f3b9-c091-2c35-50af-e5a5b6dee00a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_05.scene.nasset/Submachine Gun 05.mesh.nasset/Submachine Gun 05 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ed782df9-bc8e-1a1f-abe2-a8bb2602fae0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_05.scene.nasset/Assault Rifle 05.mesh.nasset/Assault Rifle 05 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eeac44a0-83a4-da04-366b-4e86ea6c69e5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_03.scene.nasset/Revolver 03.mesh.nasset/Revolver 03 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eee2818f-819f-ee63-a153-8df966da6908": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_01.scene.nasset/Sniper Rifle 01.mesh.nasset/Sniper Rifle 01 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "eeeeef75-750f-69fc-f495-ff552842638e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_01.scene.nasset/Modern Assault Rifle 01.mesh.nasset/Modern Assault Rifle 01.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ef9f2ebe-24fc-5623-7e80-2523066739fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bullpup_03.scene.nasset/Bullpup 03.mesh.nasset/Bullpup 03 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "efb65dc5-2651-9357-75d7-4ee91571eee1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Flashlight.scene.nasset/Flashlight.mesh.nasset/Flashlight Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f02f737e-2202-4e6b-d20b-d5604553b09f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_03.scene.nasset/Submachine Gun 03.mesh.nasset/Submachine Gun 03.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f0426467-8767-e5a3-a334-90e5ea09c53d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_02.scene.nasset/Assault Rifle 02.mesh.nasset/Assault Rifle 02 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f08ee47f-e7f6-5688-7af3-82e499c1a005": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_04.scene.nasset/Sniper Rifle 04.mesh.nasset/Sniper Rifle 04 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f197a2b1-5f54-4660-d9cc-ef25ae49e322": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_04.scene.nasset/Modern Assault Rifle 04.mesh.nasset/Modern Assault Rifle 04 Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f2d51b78-6210-bd5c-c813-a39cb70ed26f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_03.scene.nasset/Pistol 03.mesh.nasset/Pistol 03 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f32d2265-d3c7-fbe7-0c69-ad3d4940f9bf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_04.scene.nasset/Shotgun 04.mesh.nasset/Shotgun 04.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f3378371-48ae-0115-5f11-987bc16ae6c6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_04.scene.nasset/SM_Shotgun_04.scene.nasset"
+    },
+    "f3b6ae5e-3059-caba-c1be-1826bf06591c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_04.scene.nasset/Modern Assault Rifle 04.mesh.nasset/Modern Assault Rifle 04.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "f51517fc-9bd2-446e-976d-9b2f1c169396": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_02.scene.nasset/Revolver 02.mesh.nasset/Revolver 02 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f524b246-3cef-0649-ec05-c4a37d7556d0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Submachine_Gun_01.scene.nasset/Submachine Gun 01.mesh.nasset/Submachine Gun 01 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f56c0566-9144-ec8b-4dc8-b95b635da062": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_03.scene.nasset/Pistol 03.mesh.nasset/Pistol 03 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f5ad4470-91c6-3711-899d-f500cd69b8f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_02.scene.nasset/Sniper Rifle 02.mesh.nasset/Sniper Rifle 02 Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f5df415a-3d43-dd78-2150-bcbb63efed03": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bullpup_02.scene.nasset/Bullpup 02.mesh.nasset/Bullpup 02 Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "f7146e44-0f0b-6f98-39f4-a074db36bf2d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Grip.scene.nasset/SM_Grip.mesh.nasset"
+    },
+    "f87b75cf-9f9f-4186-8ad9-f142c319398a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Zoo Weapons.scene.nasset"
+    },
+    "f8fec22b-134b-1edf-fe19-067de9c2c35a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bullpup_03.scene.nasset/Bullpup 03.mesh.nasset/Bullpup 03 Main Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fa58e466-2658-baee-511a-f4657b94e68c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Silencer_Long.scene.nasset/SM_Silencer_Long.scene.nasset"
+    },
+    "fa94bb32-f02f-25b4-b9dd-cf4dd0ac61c0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Shotgun_02.scene.nasset/Shotgun 02.mesh.nasset/Shotgun 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "fc6a8711-0a65-1a8d-5fe4-3686c5d175e3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_02.scene.nasset/Sniper Rifle 02.mesh.nasset/Sniper Rifle 02 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fd7f8b8a-9e3c-f8b6-43a1-359cfc2b3d8e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_03.scene.nasset/SM_Assault_Rifle_03.scene.nasset"
+    },
+    "fe207c47-2ec6-aec7-30b3-7421e0e0a924": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Stock.scene.nasset/SM_Stock.mesh.nasset"
+    },
+    "fe50f847-806d-9d9c-6187-db5cfb69aa81": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Bipod.scene.nasset/Bipod.mesh.nasset/Bipod Metal Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fe7f36f3-dcac-8594-8987-e604711a7859": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_05.scene.nasset/Sniper Rifle 05.mesh.nasset/Sniper Rifle 05 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fe8aca88-ac5b-3953-373a-caa53c12197b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Revolver_02.scene.nasset/Revolver 02.mesh.nasset/Revolver 02 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fe92451a-bb0f-7f79-d7c8-f34868b16efc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Pistol_04.scene.nasset/Pistol 04.mesh.nasset/Pistol 04 Metal Light 01.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "febecf50-8a1f-01a6-91f4-25ebd33a1aec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Guns/SM_Pistol_02.scene.nasset/Pistol 02.mesh.nasset/Pistol 02.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "ff128358-c9ba-8fd3-5636-532567a80c0f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Sniper_Rifle_04.scene.nasset/Sniper Rifle 04.mesh.nasset/Sniper Rifle 04 Glass.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ff6ae346-1407-9a0f-72b9-da6a39fe043d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Guns/SM_Assault_Rifle_03.scene.nasset/Assault Rifle 03.mesh.nasset/Assault Rifle 03 Metal.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    }
+}
