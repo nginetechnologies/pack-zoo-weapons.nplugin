@@ -15,6 +15,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "0137ccb0-5df2-79ce-cf30-bd692768328c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_1.scene.nasset/Knife 1.mesh.nasset/Knife 1 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
+        ]
+    },
     "01d87766-3a52-caf9-750c-f215b7c0efda": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -26,6 +37,17 @@
         "path": "Assets/Source/Handheld/SM_Sword_Golden_02.scene.nasset/Sword Golden 02.mesh.nasset/Sword Golden 02 Wood Light.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "02582fe1-7bd5-ca89-67f0-31fd19bf25ea": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver_Small.scene.nasset/Revolver Small.mesh.nasset/Revolver Small Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
         ]
     },
     "028c2f56-b5e7-0480-4b4b-8dfe3db4fc63": {
@@ -50,6 +72,17 @@
         "path": "Assets/Source/Handheld/SM_Book2_Open.scene.nasset/Book2 Open.mesh.nasset/Book2 Open.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "03032a25-aced-4a0b-9476-6ea60186b264": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade_Launcher.scene.nasset/Grenade Launcher.mesh.nasset/Grenade Launcher Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
         ]
     },
     "03b21fc1-769d-a20f-60d5-29ece8a91fa8": {
@@ -91,6 +124,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "05197ca6-3bee-280f-82c7-867aaa465f06": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Sniper_2.scene.nasset/SM_Sniper_2.scene.nasset"
     },
     "05805369-ad11-13fb-9054-ccb80d06e04a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -231,6 +269,11 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "0c4cb4a8-0ec9-082d-2677-2d2f3100c96c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver.scene.nasset/SM_Revolver.scene.nasset"
+    },
     "0c5d2c2d-58b8-4100-2d56-da52f71ce83e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -245,6 +288,22 @@
         "path": "Assets/Source/Guns/SM_Bullpup_02.scene.nasset/Bullpup 02.mesh.nasset/Bullpup 02 Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "0ce5f205-2337-1d24-5cf7-d3d75f6f42f6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade.scene.nasset/Grenade.mesh.nasset/Grenade.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "fee850ec-b299-2cef-2bb4-2d6032351859",
+            "2b776c51-0aa3-c403-04fc-c76642e087d8",
+            "b6a8d142-afb9-d909-9471-883e7190ea7e",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "da044b1d-9402-ce8f-b491-92be714fae01",
+            "cf6ee35f-395a-6a5a-2419-1db5a584ba56"
         ]
     },
     "0d465ad2-c768-f403-2d66-a060f87d5b01": {
@@ -282,6 +341,17 @@
         "path": "Assets/Source/Handheld/SM_Arrow.scene.nasset/Arrow.mesh.nasset/Arrow.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "0f4d5a77-ef68-d615-5d98-8862408e0232": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade_Launcher.scene.nasset/Grenade Launcher.mesh.nasset/Grenade Launcher Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "0fba6967-7a31-5a4e-d91a-a6ea3cf126ed": {
@@ -333,6 +403,13 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Glove.scene.nasset/SM_Glove.scene.nasset"
+    },
+    "11ddcb0a-e4be-eb11-4697-cec64f3edbd9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Wood.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "121bf1bf-94c3-8061-f070-7154d8f28fac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -628,6 +705,17 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Guns/SM_Sniper_Rifle_06.scene.nasset/SM_Sniper_Rifle_06.scene.nasset"
     },
+    "1add22aa-97b1-dd3c-17a3-299d18fe9743": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Sniper_2.scene.nasset/Sniper 2.mesh.nasset/Sniper 2 Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
+        ]
+    },
     "1b578997-ed18-c1ab-9d4f-9a7a3da31a79": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -666,6 +754,17 @@
         "path": "Assets/Source/Handheld/SM_Hammer_small.scene.nasset/Hammer small.mesh.nasset/Hammer small Wood Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "1cc70b33-40c1-9e58-9431-cecd5af9dd5b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver_Small.scene.nasset/Revolver Small.mesh.nasset/Revolver Small Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "1de9f5b5-74f3-736a-2fe6-1365faeccede": {
@@ -707,6 +806,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "1f919618-703a-50bb-8346-6479fd13166d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_1.scene.nasset/Knife 1.mesh.nasset/Knife 1 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
+        ]
+    },
     "1fb086ed-a1cd-44f0-5adc-fcadfd81d812": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -730,6 +840,21 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "20598904-2a8d-4864-ec42-f78510a6f5e8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_2.scene.nasset/Knife 2.mesh.nasset/Knife 2 Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
+        ]
+    },
+    "20cedf6e-32af-cbad-a48d-45c45d7c6c16": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Pistol_Thumb.tex.nasset"
     },
     "2148e379-2cd4-a019-84ff-7ea430a3cbad": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -975,6 +1100,11 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Crystal3_Damaged.scene.nasset/SM_Crystal3_Damaged.scene.nasset"
     },
+    "2a630180-9138-06e9-cb28-f533610d3a1e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_1.scene.nasset/SM_Knife_1.scene.nasset"
+    },
     "2a6b268d-c58a-cd71-57ae-92fb5d8befd1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -996,6 +1126,17 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Guns/SM_Sniper_Rifle_03.scene.nasset/SM_Sniper_Rifle_03.scene.nasset"
     },
+    "2af4381f-20af-c2d6-0e14-15ed129f44f9": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Fire_Grenade.scene.nasset/Fire Grenade.mesh.nasset/Fire Grenade Red Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "5012e4e7-73dd-8594-7f0a-6307c75a6cae"
+        ]
+    },
     "2b151f9a-ed52-0d8e-8d58-bf75457bf975": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1013,6 +1154,13 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Sword.scene.nasset/SM_Sword.scene.nasset"
+    },
+    "2b776c51-0aa3-c403-04fc-c76642e087d8": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Green.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "2baa541e-8057-4dc7-71b6-a520bbf8499c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1044,6 +1192,17 @@
         "path": "Assets/Source/Guns/SM_Submachine_Gun_05.scene.nasset/Submachine Gun 05.mesh.nasset/Submachine Gun 05.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "2ce13898-61a3-a0d3-7153-a0ad05051de4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Rocket_Launcher.scene.nasset/Rocket Launcher.mesh.nasset/Rocket Launcher Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "2d107920-d4ed-c6d1-c0b0-893fdcb8777b": {
@@ -1146,6 +1305,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "30c46540-3ee7-1ad3-91af-c5b666ea5f25": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Short_Cannon.scene.nasset/SM_Short_Cannon.scene.nasset"
+    },
     "310ce2c7-8acd-d7a7-6329-d8f61f2df9a2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1239,6 +1403,22 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "33db870b-9dd7-cf4a-1331-586017ef0b38": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_2.scene.nasset/Knife 2.mesh.nasset/Knife 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "20598904-2a8d-4864-ec42-f78510a6f5e8",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "53d4695b-003d-8e36-7c68-7148648d6685",
+            "d7084878-91cf-60b2-99f9-aaea00f38fc1",
+            "8364db08-1722-02ce-cf0b-4a7111ffdef7",
+            "d6495e72-193e-a169-84cc-65d2c614e8e1"
+        ]
+    },
     "3404c3bf-2a9e-0d4f-8002-59d673f3ba13": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1275,6 +1455,11 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "36201c2d-41da-3c33-88ec-b55da77dfb36": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade_Launcher.scene.nasset/SM_Grenade_Launcher.scene.nasset"
     },
     "365b1eb3-de28-ccf8-2a12-dda9c38a0f3a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1328,6 +1513,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "38570872-0196-741e-6cdc-1f8022e553f3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Fire_Grenade.scene.nasset/SM_Fire_Grenade.scene.nasset"
     },
     "387de841-04ea-0d11-b8c7-c2d9b3c807e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1392,9 +1582,16 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Sword_2.scene.nasset/SM_Sword_2.scene.nasset"
     },
-    "3ab745aa-6a7d-608d-321a-60e00705f78f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_EnviroSpecular.tex.nasset"
+    "39cebbc3-fb94-e5ab-6bac-72f316b6d9a3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Fire_Grenade.scene.nasset/Fire Grenade.mesh.nasset/Fire Grenade Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "92b36451-a837-9f4c-6a16-29cab19f7963"
+        ]
     },
     "3ad6e6f8-f9b5-9cb6-2644-f7bab67792a0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1445,6 +1642,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "3db3bfb2-9331-56cf-d0ec-df1b51d8c291": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Revolver_Thumb.tex.nasset"
     },
     "3de4c2f4-0702-7e43-0b04-bf26080e33d3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1564,6 +1765,24 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Guns/SM_Assault_Rifle_05.scene.nasset/SM_Assault_Rifle_05.scene.nasset"
     },
+    "43c4403e-f076-cefe-ecbf-41024d13d146": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_AK.scene.nasset/AK.mesh.nasset/AK.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a2f95acb-2c28-2050-f4b0-6a77256452de",
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b",
+            "7166eeff-639f-4777-b1fa-0bdefa4b2e36",
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
+            "925c872f-b7cf-bf20-ce44-3c956ceea06a",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "be11d861-62a9-3ba7-0b5b-9f8c09be2420",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
+        ]
+    },
     "43e46fd4-e354-176e-123c-311449f5773b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1588,6 +1807,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "44654fc0-1670-cd11-ecbd-f2a077b454fb": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Fire_Grenade.scene.nasset/Fire Grenade.mesh.nasset/Fire Grenade Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "b8b09db4-b77d-50a8-1954-aed33e73769f"
+        ]
+    },
     "4486d33a-e11b-f60b-12f2-f73da2952305": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1604,12 +1834,35 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "4517c7b1-a27a-7a87-24c8-d40c7945bbfc": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Rocket_Launcher.scene.nasset/SM_Rocket_Launcher.scene.nasset"
+    },
     "4543c76a-7ea8-aa85-cbad-2823c5c8a021": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/Handheld/SM_Bag.scene.nasset/Bag.mesh.nasset/Bag Gold.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "45710e60-f1af-5280-39ea-651b4a47c75e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_SMG.scene.nasset/SMG.mesh.nasset/SMG.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e76fdb05-9ef2-e2b3-d059-99feed48d943",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "f1ba40d4-de28-49cc-f7f7-9d0fa62c9f5d",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
+            "60d7ec95-89f8-3b1b-7342-2018ef348372",
+            "d7084878-91cf-60b2-99f9-aaea00f38fc1",
+            "66c67a3a-81cd-1d0d-efb2-109e5cc3dd4b",
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
         ]
     },
     "460906c5-8586-c7c0-4be7-316eb9bbc1a8": {
@@ -1677,6 +1930,24 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "48d33b82-9a77-88b7-0dd2-26bcb6c97579": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver_Small.scene.nasset/Revolver Small.mesh.nasset/Revolver Small.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "02582fe1-7bd5-ca89-67f0-31fd19bf25ea",
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
+            "1cc70b33-40c1-9e58-9431-cecd5af9dd5b",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
+            "739cc087-2d51-75df-17ce-573a7d9eb72d",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "9b2af435-883b-2c2e-1923-ba9cd2877b69",
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
+        ]
+    },
     "4945d9bb-5661-3d96-32be-7351156e6dd5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1735,6 +2006,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "4c2106fb-e720-8327-dab8-75b4ccc16b2a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_1.scene.nasset/Knife 1.mesh.nasset/Knife 1 Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ab1a116c-da33-3165-fef1-e06f9e0d3d00"
+        ]
+    },
     "4c766d7d-de38-9832-bcc1-7c67fc594ea4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1788,6 +2070,13 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "5012e4e7-73dd-8594-7f0a-6307c75a6cae": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Red Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "5034d1b1-1921-f599-a690-308547f2c781": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1801,6 +2090,17 @@
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/Handheld/SM_Coin_Star.scene.nasset/SM_Coin_Star.mesh.nasset"
     },
+    "5123a090-bb96-99c8-92ec-540831bb7d0f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver.scene.nasset/Revolver.mesh.nasset/Revolver Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
+        ]
+    },
     "51a6a297-546a-7689-bfea-b40e151c9ca2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1809,10 +2109,32 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "51e7a520-7f5e-c5e0-8f41-dc0bc05b994f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Shovel.scene.nasset/Shovel.mesh.nasset/Shovel Wood Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "ab1a116c-da33-3165-fef1-e06f9e0d3d00"
+        ]
+    },
     "52db24af-fa04-2328-fe4e-4b290705b19b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Shield_Celtic_Golden.scene.nasset/SM_Shield_Celtic_Golden.scene.nasset"
+    },
+    "532b6319-bd0b-a788-c5da-c5213ef86a1f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Rocket_Launcher.scene.nasset/Rocket Launcher.mesh.nasset/Rocket Launcher Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fd155555-96ea-4d0d-0049-1c934b388837"
+        ]
     },
     "5356f9f8-5768-db67-6599-e1a484105d0e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1834,6 +2156,21 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/Handheld/SM_Glove.scene.nasset/SM_Glove.mesh.nasset"
+    },
+    "53d4695b-003d-8e36-7c68-7148648d6685": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_2.scene.nasset/Knife 2.mesh.nasset/Knife 2 Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d7084878-91cf-60b2-99f9-aaea00f38fc1"
+        ]
+    },
+    "53f4416d-4a90-e309-7f20-7380d92abf23": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Knife_02_Thumb.tex.nasset"
     },
     "53f744c4-a6f1-3dbc-2d30-172f64cd1be5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1858,6 +2195,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "546330ac-1401-1c7b-5835-4e16f0720a2f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Fire_Grenade_Thumb.tex.nasset"
     },
     "5482a028-4288-7602-182c-106044c9d21d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1903,6 +2244,24 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Guns/SM_Revolver_05.scene.nasset/SM_Revolver_05.scene.nasset"
+    },
+    "566d1cbd-1c44-07dd-55c5-6ac2a96b7644": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_1.scene.nasset/Knife 1.mesh.nasset/Knife 1.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "4c2106fb-e720-8327-dab8-75b4ccc16b2a",
+            "ab1a116c-da33-3165-fef1-e06f9e0d3d00",
+            "1f919618-703a-50bb-8346-6479fd13166d",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
+            "602bfd4b-56a6-b164-aa20-a81dab4e81ef",
+            "d6495e72-193e-a169-84cc-65d2c614e8e1",
+            "0137ccb0-5df2-79ce-cf30-bd692768328c",
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
+        ]
     },
     "56c8509f-f58b-37a0-0269-1f5bbedb6ccd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1999,6 +2358,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "5904ab3c-3bed-6eda-4aa3-d8e8fab2527f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Sniper_02_Thumb.tex.nasset"
+    },
     "5932a03e-c448-4c1f-8921-f5d59804bc72": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2038,12 +2401,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "01184afc-6e84-4261-9fb6-09d045b40026": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
     },
     "5ae6dc06-86b5-b89f-b514-90fa436d97e6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2085,6 +2442,17 @@
         "path": "Assets/Source/Handheld/SM_Bow_Evil.scene.nasset/Bow Evil.mesh.nasset/Bow Evil.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "5d37753f-7f87-d12e-5007-4531ad7542e2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Pistol.scene.nasset/Pistol.mesh.nasset/Pistol Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
         ]
     },
     "5d3b4c38-9287-4be3-e1f6-8813f0c09e0d": {
@@ -2166,12 +2534,34 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Potion11_Filled.scene.nasset/SM_Potion11_Filled.scene.nasset"
     },
+    "5ffc5bcc-186d-19bb-8c2d-d99416b18ac1": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Sniper.scene.nasset/Sniper.mesh.nasset/Sniper Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "f49d5c78-5f96-299d-f016-4c66b9fe6254"
+        ]
+    },
     "6015d385-fa94-0236-e297-ea2d917fd907": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Potion11_Filled.scene.nasset/Potion11 Filled.mesh.nasset/Potion11 Filled.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "602bfd4b-56a6-b164-aa20-a81dab4e81ef": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_1.scene.nasset/Knife 1.mesh.nasset/Knife 1 Grey Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d6495e72-193e-a169-84cc-65d2c614e8e1"
         ]
     },
     "6089f66b-b9c5-2324-7201-a4c72d5ab7aa": {
@@ -2191,6 +2581,17 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Dagger_02.scene.nasset/SM_Dagger_02.scene.nasset"
+    },
+    "60d7ec95-89f8-3b1b-7342-2018ef348372": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_SMG.scene.nasset/SMG.mesh.nasset/SMG Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d7084878-91cf-60b2-99f9-aaea00f38fc1"
+        ]
     },
     "60ebe8e8-a82f-9424-7825-a28f54eaf418": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2276,6 +2677,17 @@
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/Handheld/SM_Ring1.scene.nasset/SM_Ring1.mesh.nasset"
     },
+    "63f74df1-5ce6-57e1-d4a3-33e68c3eceff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Shotgun.scene.nasset/Shotgun.mesh.nasset/Shotgun Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
+        ]
+    },
     "64069a52-87f3-0ca6-e5f4-41d1fdd70fe8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2340,6 +2752,24 @@
         "path": "Assets/Source/Handheld/SM_Axe.scene.nasset/Axe.mesh.nasset/Axe Steel Light.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "66509aa2-c5ef-3c81-f7a8-ea7658862e6b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Grey Darker.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "66c67a3a-81cd-1d0d-efb2-109e5cc3dd4b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_SMG.scene.nasset/SMG.mesh.nasset/SMG Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
         ]
     },
     "66ff4fba-2f2f-b3a3-5a38-7559d27c0b88": {
@@ -2426,10 +2856,32 @@
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/Handheld/SM_Armor_Leather.scene.nasset/SM_Armor_Leather.mesh.nasset"
     },
+    "6a5542f9-8d51-919d-4386-49d69b540027": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver.scene.nasset/Revolver.mesh.nasset/Revolver.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "5123a090-bb96-99c8-92ec-540831bb7d0f",
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
+            "ad036016-ac65-cd8b-f723-9909c81ee625",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "93bf49f8-2858-fd26-fb88-bdc8c6276a92",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
+            "bd3f01bb-7e5c-119f-d96b-14de82278ff4",
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
+        ]
+    },
     "6a684998-2854-b1c5-3234-0aa2f9031287": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Book1_Open.scene.nasset/SM_Book1_Open.scene.nasset"
+    },
+    "6a90facb-92f0-7d5c-cbd3-9bca24264a82": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Revolver_Small_Thumb.tex.nasset"
     },
     "6a9ce6c7-ac78-e9b8-07c7-0c42a0b3f733": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2445,6 +2897,17 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Axe_Double.scene.nasset/SM_Axe_Double.scene.nasset"
+    },
+    "6b783f15-fcef-351f-a75e-247db0041214": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade_Launcher.scene.nasset/Grenade Launcher.mesh.nasset/Grenade Launcher Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
+        ]
     },
     "6b87f338-02f7-3e3e-8f71-8a19527fe7c2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2651,6 +3114,17 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "7166eeff-639f-4777-b1fa-0bdefa4b2e36": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_AK.scene.nasset/AK.mesh.nasset/AK Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
+        ]
+    },
     "71956ed6-ce9f-a641-ce4a-55190b452db0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2710,6 +3184,17 @@
         "path": "Assets/Source/Handheld/SM_Ring7.scene.nasset/Ring7.mesh.nasset/Ring7.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "739cc087-2d51-75df-17ce-573a7d9eb72d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver_Small.scene.nasset/Revolver Small.mesh.nasset/Revolver Small Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
         ]
     },
     "73e27f17-e0f9-7447-4ffb-22849fb8523d": {
@@ -2847,10 +3332,25 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Guns/SM_Silencer_01.scene.nasset/SM_Silencer_01.scene.nasset"
     },
+    "77491bd1-9f51-0866-d9bf-76a3cd1c62ab": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Sniper.scene.nasset/Sniper.mesh.nasset/Sniper Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "7ae9986e-3212-8c29-e41a-3322cfed1f2f"
+        ]
+    },
     "77628fa7-90db-fdba-e817-24d099c19f2c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Snowflake1.scene.nasset/SM_Snowflake1.scene.nasset"
+    },
+    "78498094-f9a7-a46b-3f60-6b5b73c16ab0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Shotgun_Thumb.tex.nasset"
     },
     "78dec05f-4dbb-100a-9d0f-32d503478dde": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2903,6 +3403,17 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Guns/SM_Submachine_Gun_01.scene.nasset/SM_Submachine_Gun_01.scene.nasset"
+    },
+    "7b4a879c-902f-3564-89ab-2671dfab687c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Sniper_2.scene.nasset/Sniper 2.mesh.nasset/Sniper 2 Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
+        ]
     },
     "7bdd2611-ef37-1095-89bc-23e7119f82ef": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -3113,6 +3624,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "8364db08-1722-02ce-cf0b-4a7111ffdef7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_2.scene.nasset/Knife 2.mesh.nasset/Knife 2 Grey Light.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d6495e72-193e-a169-84cc-65d2c614e8e1"
+        ]
+    },
     "83c105d8-eea3-81e8-d7ce-cbd9c35b20a6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3208,6 +3730,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "86899b89-d0b0-d09f-f096-b6357472b26b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Sniper_2.scene.nasset/Sniper 2.mesh.nasset/Sniper 2 Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
+        ]
+    },
     "868a3a11-9309-16f1-d9d1-b76255819621": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3215,6 +3748,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "86af7e59-0cd9-f726-36f3-4df257ad96dc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Short_Cannon_Thumb.tex.nasset"
     },
     "86df4eae-e7d5-65be-c2cc-14d094a57813": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3230,6 +3767,35 @@
         "path": "Assets/Source/Handheld/SM_Hammer_Double.scene.nasset/Hammer Double.mesh.nasset/Hammer Double Wood Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "875e56c6-4564-abca-3df4-6b49b7329784": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade_Launcher.scene.nasset/Grenade Launcher.mesh.nasset/Grenade Launcher.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "0f4d5a77-ef68-d615-5d98-8862408e0232",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
+            "03032a25-aced-4a0b-9476-6ea60186b264",
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b",
+            "6b783f15-fcef-351f-a75e-247db0041214",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "fc6bfad7-c2e7-c692-deed-3fa4cc2cc55c",
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
+        ]
+    },
+    "87cef201-e7f5-b40c-0393-e1fb3ab2f994": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Rocket_Launcher.scene.nasset/Rocket Launcher.mesh.nasset/Rocket Launcher Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d7084878-91cf-60b2-99f9-aaea00f38fc1"
         ]
     },
     "87d1912a-11cb-a61f-af04-4843452fe3c4": {
@@ -3248,6 +3814,22 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "88542050-8cdb-7f5e-d11c-a8daf4bec939": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Shovel.scene.nasset/Shovel.mesh.nasset/Shovel.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "a0d2d226-c6b4-f3d8-d85e-9e7dff882baf",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
+            "a9b97510-9134-dcab-26d2-c436f7a252a8",
+            "fd155555-96ea-4d0d-0049-1c934b388837",
+            "51e7a520-7f5e-c5e0-8f41-dc0bc05b994f",
+            "ab1a116c-da33-3165-fef1-e06f9e0d3d00"
+        ]
+    },
     "887a3c4c-4ee4-cd7a-ee7f-73f0656154bb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3255,6 +3837,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "89acec32-3706-2a98-b090-751fa2b73549": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/SMG_Thumb.tex.nasset"
     },
     "8a2989a4-d2b3-a128-c5ab-161b891f4a75": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3399,6 +3985,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "8ef95d2e-e109-3fc5-a2cd-a8e538c0ca1f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Weapon_Zoo_Thumb.tex.nasset"
+    },
     "8f12a809-4dc0-3e51-92ad-c2f8886d39ec": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3484,6 +4074,17 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "925c872f-b7cf-bf20-ce44-3c956ceea06a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_AK.scene.nasset/AK.mesh.nasset/AK Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
+        ]
+    },
     "925d7bb3-6868-9231-eefd-8726b7736566": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3492,12 +4093,35 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "92b36451-a837-9f4c-6a16-29cab19f7963": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Grey.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "93106d43-bdad-00c8-7e38-5cfbdb24cf8e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade.scene.nasset/SM_Grenade.scene.nasset"
+    },
     "93b92af5-c36f-f45f-9dd8-ff8c07e8fd38": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_01.scene.nasset/Modern Assault Rifle 01.mesh.nasset/Modern Assault Rifle 01 Main.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "93bf49f8-2858-fd26-fb88-bdc8c6276a92": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver.scene.nasset/Revolver.mesh.nasset/Revolver Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "94deb9f0-eaa7-5347-e58b-e4acb7cb75c0": {
@@ -3705,6 +4329,24 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "9b2af435-883b-2c2e-1923-ba9cd2877b69": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver_Small.scene.nasset/Revolver Small.mesh.nasset/Revolver Small Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
+        ]
+    },
+    "9b665a37-b228-3d79-d708-369145f25466": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Grey Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "9c110200-e937-e899-e623-a07d7e0a2427": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3795,6 +4437,17 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "9f804192-731c-0581-dc7f-7085d8d97440": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Rocket_Launcher.scene.nasset/Rocket Launcher.mesh.nasset/Rocket Launcher Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
+        ]
+    },
     "9fb3fa56-0ebb-1026-2bb2-2d8d799b4033": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3814,6 +4467,17 @@
         "path": "Assets/Source/Handheld/SM_Potion7_Empty.scene.nasset/Potion7 Empty.mesh.nasset/Potion7 Empty Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "9ffa359b-e5fc-51ce-e835-3c0ebb8a026d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Shotgun.scene.nasset/Shotgun.mesh.nasset/Shotgun Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
         ]
     },
     "a047bb0d-f351-1812-5a5a-89d92592fe8d": {
@@ -3838,6 +4502,17 @@
         "path": "Assets/Source/Guns/SM_Shotgun_03.scene.nasset/Shotgun 03.mesh.nasset/Shotgun 03 Metal Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "a0d2d226-c6b4-f3d8-d85e-9e7dff882baf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Shovel.scene.nasset/Shovel.mesh.nasset/Shovel Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "a0f35ab2-5a02-d81a-6143-ea1bfbc1a99e": {
@@ -3886,6 +4561,17 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Crystal4.scene.nasset/SM_Crystal4.scene.nasset"
+    },
+    "a2f95acb-2c28-2050-f4b0-6a77256452de": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_AK.scene.nasset/AK.mesh.nasset/AK Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
+        ]
     },
     "a324dc0d-5dd1-aa97-c736-74612922b7d2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3958,10 +4644,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
-    },
     "a6ee6c36-64da-cea5-2689-621d39cd7925": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3991,6 +4673,17 @@
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/Handheld/SM_Parchment.scene.nasset/SM_Parchment.mesh.nasset"
     },
+    "a9b97510-9134-dcab-26d2-c436f7a252a8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Shovel.scene.nasset/Shovel.mesh.nasset/Shovel Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fd155555-96ea-4d0d-0049-1c934b388837"
+        ]
+    },
     "aa0c00ae-835a-fcb9-b56c-7fd751d10d60": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4003,6 +4696,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "aa33f988-91be-4147-bc57-df499dbca7e1": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
     },
     "aa667f6f-a102-b28f-cd31-55cbcbdf05fe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4018,6 +4715,13 @@
         "path": "Assets/Source/Handheld/SM_Potion6_Empty.scene.nasset/Potion6 Empty.mesh.nasset/Potion6 Empty Brown.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "ab1a116c-da33-3165-fef1-e06f9e0d3d00": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Wood Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "ab4f1235-1757-f8da-eb94-b60aca466550": {
@@ -4068,6 +4772,35 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "acbb716c-9d96-e500-a804-f4570078580d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Rocket_Launcher.scene.nasset/Rocket Launcher.mesh.nasset/Rocket Launcher.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "532b6319-bd0b-a788-c5da-c5213ef86a1f",
+            "fd155555-96ea-4d0d-0049-1c934b388837",
+            "87cef201-e7f5-b40c-0393-e1fb3ab2f994",
+            "d7084878-91cf-60b2-99f9-aaea00f38fc1",
+            "9f804192-731c-0581-dc7f-7085d8d97440",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "2ce13898-61a3-a0d3-7153-a0ad05051de4",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
+        ]
+    },
+    "ad036016-ac65-cd8b-f723-9909c81ee625": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver.scene.nasset/Revolver.mesh.nasset/Revolver Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
+        ]
+    },
     "ad776e1b-0b38-bcbc-d0ea-cedb678a1eca": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4111,6 +4844,11 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Hammer_small.scene.nasset/SM_Hammer_small.scene.nasset"
+    },
+    "ae3312e2-e841-626f-d3a7-d9f52b849d61": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Pistol.scene.nasset/SM_Pistol.scene.nasset"
     },
     "ae49bb6b-acfc-c614-a0b4-7f33677a37af": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4170,6 +4908,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "b014865e-a2d8-c8fc-454c-2a3be288d1f5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Shovel.scene.nasset/SM_Shovel.scene.nasset"
+    },
     "b09f9f2f-1246-b732-6b33-06a0fb6b445e": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4188,6 +4931,24 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "b25a6978-7e3e-973f-0ce6-26b286841dfe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Fire_Grenade.scene.nasset/Fire Grenade.mesh.nasset/Fire Grenade.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e6843393-bf89-0e83-7a18-4cfaf54a4cc0",
+            "fd155555-96ea-4d0d-0049-1c934b388837",
+            "44654fc0-1670-cd11-ecbd-f2a077b454fb",
+            "b8b09db4-b77d-50a8-1954-aed33e73769f",
+            "39cebbc3-fb94-e5ab-6bac-72f316b6d9a3",
+            "92b36451-a837-9f4c-6a16-29cab19f7963",
+            "2af4381f-20af-c2d6-0e14-15ed129f44f9",
+            "5012e4e7-73dd-8594-7f0a-6307c75a6cae"
+        ]
+    },
     "b2621ddd-a380-7ab3-d91c-3152f6e15c29": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4195,6 +4956,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "b331aca0-06c4-b8ab-169d-d30b26cb8b95": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Knife_2.scene.nasset/SM_Knife_2.scene.nasset"
     },
     "b42aa2b8-ef07-a208-c503-8c5f9d817cc6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4267,12 +5033,34 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "b6a8d142-afb9-d909-9471-883e7190ea7e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade.scene.nasset/Grenade.mesh.nasset/Grenade Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
+        ]
+    },
     "b6a8f114-9a6d-e829-23cd-d0f34683479f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/Handheld/SM_Hammer_small.scene.nasset/Hammer small.mesh.nasset/Hammer small Steel.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "b7201341-f4b0-521c-236c-898e04210fa7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Sniper.scene.nasset/Sniper.mesh.nasset/Sniper Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "d7084878-91cf-60b2-99f9-aaea00f38fc1"
         ]
     },
     "b76c36be-5852-a781-e42d-82b645fad791": {
@@ -4295,6 +5083,13 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Crystal2_Damaged.scene.nasset/SM_Crystal2_Damaged.scene.nasset"
+    },
+    "b8b09db4-b77d-50a8-1954-aed33e73769f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Black.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "b8fdcad9-e08d-203f-b8cc-53d4b99496fc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4370,6 +5165,22 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "bba84769-ccf3-97bc-e1f3-3b79f8119067": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Short_Cannon.scene.nasset/Short Cannon.mesh.nasset/Short Cannon.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "c558adc3-27b4-da92-a844-e8c2f300d27a",
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
+            "c9c8dd95-e914-9b61-591a-4dab82303fbc",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "e1ddb713-d57a-4a41-b4b7-e388a4c62df7",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
+        ]
+    },
     "bbb348ff-c87e-118e-3f86-b57bf81d489e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4443,6 +5254,21 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Guns/SM_Shotgun_03.scene.nasset/SM_Shotgun_03.scene.nasset"
     },
+    "bd3f01bb-7e5c-119f-d96b-14de82278ff4": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver.scene.nasset/Revolver.mesh.nasset/Revolver Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
+        ]
+    },
+    "bd666952-be8f-6f0d-6795-9d4c05f3cf7a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Grenade_Launcher_Thumb.tex.nasset"
+    },
     "bd87b978-15e1-dbc5-58ee-296e051ebf83": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4459,6 +5285,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "be11d861-62a9-3ba7-0b5b-9f8c09be2420": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_AK.scene.nasset/AK.mesh.nasset/AK Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
+        ]
+    },
     "be42a7ad-6ced-98ae-f16f-eaf389786212": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4466,6 +5303,11 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "be4cd0d3-d87b-6b69-7785-2766572f6e66": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Sniper.scene.nasset/SM_Sniper.scene.nasset"
     },
     "be7bb369-6333-b4bb-b4de-57eafcd2e963": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4490,6 +5332,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "c05eab90-ce5c-babc-7bb6-773986697afc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Sniper_01_Thumb.tex.nasset"
     },
     "c0feba8f-e236-7b8a-e422-d9aeda6ca336": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4535,10 +5381,6 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
-    },
-    "c2940fa0-88d1-e650-7003-f9e85ffe8c39": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_Enviro.tex.nasset"
     },
     "c350eff1-513d-78db-9e3c-afacc8f9193c": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -4622,6 +5464,17 @@
         "path": "Assets/Source/Handheld/SM_Potion1_Filled.scene.nasset/Potion1 Filled.mesh.nasset/Potion1 Filled.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "c558adc3-27b4-da92-a844-e8c2f300d27a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Short_Cannon.scene.nasset/Short Cannon.mesh.nasset/Short Cannon Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
         ]
     },
     "c59f4b9e-d0be-a29d-b4cc-ff2dd4918e62": {
@@ -4737,6 +5590,28 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Coin_Star.scene.nasset/SM_Coin_Star.scene.nasset"
     },
+    "c9a564e6-83c2-a090-77bd-8fa65a9f340a": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Shotgun.scene.nasset/Shotgun.mesh.nasset/Shotgun Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
+        ]
+    },
+    "c9c8dd95-e914-9b61-591a-4dab82303fbc": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Short_Cannon.scene.nasset/Short Cannon.mesh.nasset/Short Cannon Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
+        ]
+    },
     "c9e587c6-2cbf-07ff-fd7d-f9d5189ab4a8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4788,6 +5663,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "cb30bb42-a163-0dac-3986-ccbc22668f84": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Shotgun.scene.nasset/SM_Shotgun.scene.nasset"
     },
     "cb4d3cf0-08b6-a7f7-d437-def29794957f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4843,12 +5723,23 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Armor_Metal.scene.nasset/SM_Armor_Metal.scene.nasset"
     },
+    "ce8279d8-a293-5a23-6c94-efb40ec0aa88": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Rocket_Launcher_Thumb.tex.nasset"
+    },
     "cf4c1e7b-eda4-b09e-2ce0-1d8dbb77c300": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/Guns/SM_Scope_03.scene.nasset/Scope 03.mesh.nasset/Scope 03 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "cf6ee35f-395a-6a5a-2419-1db5a584ba56": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Green Dark.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "cf905ec5-a99e-af83-a43a-743f994b273a": {
@@ -4885,6 +5776,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "d1678206-8361-d874-13fa-98f32a8011af": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Grenade_Thumb.tex.nasset"
+    },
     "d16d1e75-2818-7921-2e41-6ed3a113eeb8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4900,6 +5795,10 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "d1ba6677-d540-095e-8fbc-ee6fffcbe367": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Shovel_Thumb.tex.nasset"
     },
     "d220e9d9-b533-251c-2d73-e3f92bd3be52": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4955,6 +5854,13 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Guns/SM_Sniper_Rifle_05.scene.nasset/SM_Sniper_Rifle_05.scene.nasset"
+    },
+    "d6495e72-193e-a169-84cc-65d2c614e8e1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Grey Light.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "d667cede-130a-5569-5d61-6beb576656b4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5101,9 +6007,20 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "d9fa4ff1-8968-23db-8e67-77642cb4d88e": {
+    "d9cf545b-4812-cf05-6a96-eb22f1b7bbf8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_EnviroDiffuse.tex.nasset"
+        "path": "Assets/Source/Toon_Guns/Thumbnails/AK_Thumb.tex.nasset"
+    },
+    "da044b1d-9402-ce8f-b491-92be714fae01": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade.scene.nasset/Grenade.mesh.nasset/Grenade Green Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "cf6ee35f-395a-6a5a-2419-1db5a584ba56"
+        ]
     },
     "da1824d3-a3d0-041c-aa89-1e5280c47d4a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5124,7 +6041,8 @@
     "da6d4c82-7da5-407e-bc4b-b0989f51487c": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "thumbnail": "24fe35c8-2982-465b-8bc3-dde46c44d50a"
+        "name": "Zoo Weapons",
+        "thumbnail": "8ef95d2e-e109-3fc5-a2cd-a8e538c0ca1f"
     },
     "daa27c65-6879-82e1-d335-ad8b7aad88ff": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5342,6 +6260,17 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "e1ddb713-d57a-4a41-b4b7-e388a4c62df7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Short_Cannon.scene.nasset/Short Cannon.mesh.nasset/Short Cannon Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
+        ]
+    },
     "e22d748b-ebe7-df82-52b5-55a6d3a153c1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5372,6 +6301,24 @@
         "path": "Assets/Source/Guns/SM_Scope_02.scene.nasset/Scope 02.mesh.nasset/Scope 02 Glass.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e36df82b-c44e-3e5c-ff24-4c5415060d95": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Shotgun.scene.nasset/Shotgun.mesh.nasset/Shotgun.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "63f74df1-5ce6-57e1-d4a3-33e68c3eceff",
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
+            "f2c57b40-ba33-aca6-79be-7855c34437d0",
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b",
+            "9ffa359b-e5fc-51ce-e835-3c0ebb8a026d",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "c9a564e6-83c2-a090-77bd-8fa65a9f340a",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "e37729e2-ef09-3566-e925-b581078ea41d": {
@@ -5405,6 +6352,17 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Potion10_Filled.scene.nasset/SM_Potion10_Filled.scene.nasset"
     },
+    "e6843393-bf89-0e83-7a18-4cfaf54a4cc0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Fire_Grenade.scene.nasset/Fire Grenade.mesh.nasset/Fire Grenade Red.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "fd155555-96ea-4d0d-0049-1c934b388837"
+        ]
+    },
     "e6c293c2-9642-b308-d329-a72cb7a758c8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5437,6 +6395,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "e76fdb05-9ef2-e2b3-d059-99feed48d943": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_SMG.scene.nasset/SMG.mesh.nasset/SMG Grey Dark.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "9b665a37-b228-3d79-d708-369145f25466"
+        ]
+    },
     "e77d3e8a-2725-99d6-b63c-791b366088de": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5461,10 +6430,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "e95160b5-9f01-a360-4319-88759e54333f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
-    },
     "e96bdb33-4b3b-e4e3-5a99-9cbb181a4c52": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5472,6 +6437,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "e9fe10ce-66f7-988c-ac63-a7add8ef7143": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Toon_Guns/Thumbnails/Knife_01_Thumb.tex.nasset"
     },
     "ea65c890-cce3-dd5f-78b4-384afbdfedba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5516,12 +6485,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "076493de-5691-4956-8695-f8c5b80dd31b": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Player/Player.scene.nasset",
-        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
     },
     "eca527ac-be32-7997-0f40-47d0467fbbb0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5571,6 +6534,11 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "edd4f39a-b536-78e1-d98d-bc14d71a3231": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_AK.scene.nasset/SM_AK.scene.nasset"
+    },
     "ee03b193-78e7-e1fa-3b75-29040d8c0bdf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5617,6 +6585,17 @@
         "path": "Assets/Source/Guns/SM_Modern_Assault_Rifle_01.scene.nasset/Modern Assault Rifle 01.mesh.nasset/Modern Assault Rifle 01.mesh.nasset",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "eef6f5e5-c0a3-7810-cf84-e8e29cebeff3": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Pistol.scene.nasset/Pistol.mesh.nasset/Pistol Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
         ]
     },
     "eefef98b-2c48-469c-301e-0efb8d5ba209": {
@@ -5730,6 +6709,17 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "f1ba40d4-de28-49cc-f7f7-9d0fa62c9f5d": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_SMG.scene.nasset/SMG.mesh.nasset/SMG Grey.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
+        ]
+    },
     "f2552b2b-fe13-fa43-2a9e-57768ba21a6a": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5740,6 +6730,17 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Claymore.scene.nasset/SM_Claymore.scene.nasset"
     },
+    "f2c57b40-ba33-aca6-79be-7855c34437d0": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Shotgun.scene.nasset/Shotgun.mesh.nasset/Shotgun Grey Darker.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "66509aa2-c5ef-3c81-f7a8-ea7658862e6b"
+        ]
+    },
     "f2d51b78-6210-bd5c-c813-a39cb70ed26f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5747,6 +6748,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "f320ebca-90a4-5054-c6e1-e891da0592a2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Revolver_Small.scene.nasset/SM_Revolver_Small.scene.nasset"
     },
     "f32d2265-d3c7-fbe7-0c69-ad3d4940f9bf": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5796,6 +6802,22 @@
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/Handheld/SM_Potion9_Filled.scene.nasset/SM_Potion9_Filled.scene.nasset"
+    },
+    "f4c300b8-f53d-7851-8c28-ab9ec3f1a593": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Sniper_2.scene.nasset/Sniper 2.mesh.nasset/Sniper 2.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1add22aa-97b1-dd3c-17a3-299d18fe9743",
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9",
+            "7b4a879c-902f-3564-89ab-2671dfab687c",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "86899b89-d0b0-d09f-f096-b6357472b26b",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee"
+        ]
     },
     "f51517fc-9bd2-446e-976d-9b2f1c169396": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -5892,6 +6914,17 @@
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Zoo Weapons.scene.nasset"
     },
+    "f88a83ea-b21f-bec7-5b68-c0aec400004c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Pistol.scene.nasset/Pistol.mesh.nasset/Pistol Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
+        ]
+    },
     "f8f32e65-1b08-2a5e-c65e-9059ed23b245": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5982,12 +7015,39 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "fc0bea8c-aa13-5f21-9b6c-2f8a898bf152": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Pistol.scene.nasset/Pistol.mesh.nasset/Pistol.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "5d37753f-7f87-d12e-5007-4531ad7542e2",
+            "9b665a37-b228-3d79-d708-369145f25466",
+            "eef6f5e5-c0a3-7810-cf84-e8e29cebeff3",
+            "316debcf-6ef9-40e9-f1fb-5116f878c7ee",
+            "f88a83ea-b21f-bec7-5b68-c0aec400004c",
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
+        ]
+    },
     "fc6a8711-0a65-1a8d-5fe4-3686c5d175e3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Source/Guns/SM_Sniper_Rifle_02.scene.nasset/Sniper Rifle 02.mesh.nasset/Sniper Rifle 02 Metal Light 01.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "fc6bfad7-c2e7-c692-deed-3fa4cc2cc55c": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade_Launcher.scene.nasset/Grenade Launcher.mesh.nasset/Grenade Launcher Wood.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "11ddcb0a-e4be-eb11-4697-cec64f3edbd9"
         ]
     },
     "fcda3fbc-2be1-26ee-553f-98b262d0180b": {
@@ -6003,6 +7063,13 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "fd155555-96ea-4d0d-0049-1c934b388837": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Source/Toon_Guns/Material Instances/Red.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "fd7f8b8a-9e3c-f8b6-43a1-359cfc2b3d8e": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6016,6 +7083,22 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "fdec8a96-1ace-4f5d-afd6-d7f19bfa1f57": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_Sniper.scene.nasset/Sniper.mesh.nasset/Sniper.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "5ffc5bcc-186d-19bb-8c2d-d99416b18ac1",
+            "f49d5c78-5f96-299d-f016-4c66b9fe6254",
+            "77491bd1-9f51-0866-d9bf-76a3cd1c62ab",
+            "7ae9986e-3212-8c29-e41a-3322cfed1f2f",
+            "b7201341-f4b0-521c-236c-898e04210fa7",
+            "d7084878-91cf-60b2-99f9-aaea00f38fc1"
+        ]
+    },
     "fdf00db6-7ad3-7306-49d5-b9d02d2d797e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -6023,6 +7106,11 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "fe02aef4-85cc-e140-9819-649263f17842": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Source/Toon_Guns/SM_SMG.scene.nasset/SM_SMG.scene.nasset"
     },
     "fe207c47-2ec6-aec7-30b3-7421e0e0a924": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -6077,6 +7165,17 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "fee850ec-b299-2cef-2bb4-2d6032351859": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Source/Toon_Guns/SM_Grenade.scene.nasset/Grenade.mesh.nasset/Grenade Green.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2b776c51-0aa3-c403-04fc-c76642e087d8"
+        ]
+    },
     "ff08c99d-7508-d43a-1d95-c999542e5ce8": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -6129,5 +7228,6 @@
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
-    }
+    },
+    "guid": "aa33f988-91be-4147-bc57-df499dbca7e1"
 }

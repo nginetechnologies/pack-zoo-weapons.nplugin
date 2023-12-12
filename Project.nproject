@@ -1,6 +1,7 @@
 {
     "name": "Zoo Weapons",
     "guid": "da6d4c82-7da5-407e-bc4b-b0989f51487c",
+    "database_guid": "aa33f988-91be-4147-bc57-df499dbca7e1",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,7 +12,7 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "24fe35c8-2982-465b-8bc3-dde46c44d50a",
+    "thumbnail_guid": "8ef95d2e-e109-3fc5-a2cd-a8e538c0ca1f",
     "default_scene": "f87b75cf-9f9f-4186-8ad9-f142c319398a",
     "source": "Project.nproject",
 	"settings": {
